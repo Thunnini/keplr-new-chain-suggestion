@@ -2,5 +2,8 @@
   "info": [{
     "version": "0.12.38",
     "chainIdentifier": "celestia"
+  },{
+    "version": "0.12.38",
+    "chainIdentifier": "dydx-mainnet"
   }]
 }
